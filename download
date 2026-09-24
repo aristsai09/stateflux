@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.DS_Store
-Thumbs.db
-*.tmp
-*.bak
-# Large TIFFs can be regenerated from the figure script and are omitted from GitHub.
-figures/*.tif
