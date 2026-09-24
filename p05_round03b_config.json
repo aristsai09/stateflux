@@ -1,0 +1,53 @@
+{
+  "project_name": "P05 StateFlux-DILI Round 03B Rescue and Residual Validation",
+  "random_seed": 20260911,
+  "cpu_reserve": 2,
+  "structure_repair": {
+    "timeout_seconds": 35,
+    "max_retries": 4,
+    "delay_seconds": 0.25,
+    "use_chembl_fallback": true,
+    "repair_only_missing": true
+  },
+  "metabolism": {
+    "workers": 2,
+    "timeout_seconds": 1800,
+    "sequence": "cyp450:2;phaseII:1",
+    "target_branches_per_drug": 2,
+    "max_generation": 3,
+    "max_path_metabolite_nodes_per_drug": 6
+  },
+  "microstates": {
+    "windows": {
+      "acidic_organelle": [4.5, 5.5],
+      "physiologic": [7.2, 7.6],
+      "alkaline_organelle": [7.6, 8.1]
+    },
+    "max_variants_per_window": 6,
+    "max_states_per_drug": 4
+  },
+  "xtb": {
+    "workers_max": 6,
+    "initial_conformers": 8,
+    "opt_timeout_seconds": 1800,
+    "property_timeout_seconds": 1200
+  },
+  "validation": {
+    "outer_repeats": 10,
+    "outer_folds": 5,
+    "inner_folds": 4,
+    "paired_bootstrap": 10000,
+    "strict_exact_tanimoto": 0.999999,
+    "scaffold_novel_tanimoto": 0.70,
+    "primary_meta_C": 0.20,
+    "primary_meta_l1_ratio": 0.50,
+    "cliff_strict_tanimoto": 0.60,
+    "analog_top_n": 50
+  },
+  "hagan_lowdim": {
+    "enabled": true,
+    "outer_repeats": 3,
+    "outer_folds": 5,
+    "inner_folds": 4
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "state_used": [
+    "parent_electrophilicity_eV",
+    "parent_vip_eV",
+    "parent_vea_eV",
+    "parent_homo_lumo_gap_eV",
+    "parent_fukui_plus_absmax",
+    "parent_local_electrophilicity_proxy_eV",
+    "microstate_range_electrophilicity_eV",
+    "met_max_electrophilicity_eV"
+  ],
+  "flux_used": [
+    "max_reactive_alert_gain",
+    "phase1_delta_max_electrophilicity_eV",
+    "phase1_positive_flux_electrophilicity_eV",
+    "phase2_negative_flux_electrophilicity_eV",
+    "path_peak_gain_max_electrophilicity_eV",
+    "path_cumulative_abs_max_electrophilicity_eV",
+    "path_net_min_vip_eV",
+    "path_peak_gain_max_vea_eV",
+    "step_delta_absmax_fukui_plus_absmax",
+    "path_peak_gain_max_local_electrophilicity_proxy_eV",
+    "path_cumulative_abs_max_gsolv_Eh",
+    "metabolic_reactive_product_fraction",
+    "metabolic_phase2_fraction",
+    "max_quantum_path_length",
+    "reachable_quantum_paths",
+    "edge_count_computed"
+  ]
+}

@@ -1,0 +1,17 @@
+feature,n_compared,n_changed,median_abs_change,max_abs_change
+max_reactive_alert_gain,1031,43,0.0,2.0
+phase1_delta_max_electrophilicity_eV,877,95,0.0,3.7919227922153165
+phase1_positive_flux_electrophilicity_eV,877,390,4.440892098500626e-16,11.7540097736265
+phase2_negative_flux_electrophilicity_eV,145,16,0.0,2.861230678405942
+path_peak_gain_max_electrophilicity_eV,984,58,0.0,4.775942151307381
+path_cumulative_abs_max_electrophilicity_eV,984,87,0.0,6.390522785390265
+path_net_min_vip_eV,984,56,4.85722573273506e-17,2.1196
+path_peak_gain_max_vea_eV,984,59,0.0,2.9899000000000004
+step_delta_absmax_fukui_plus_absmax,984,126,1.3877787807814457e-17,0.311
+path_peak_gain_max_local_electrophilicity_proxy_eV,984,95,5.551115123125783e-17,1.6979502044541381
+path_cumulative_abs_max_gsolv_Eh,984,103,5.204170427930421e-18,0.1031863603449999
+metabolic_reactive_product_fraction,1031,0,0.0,0.0
+metabolic_phase2_fraction,1031,0,0.0,0.0
+max_quantum_path_length,1031,33,0.0,2.0
+reachable_quantum_paths,1031,53,0.0,2.0
+edge_count_computed,1031,622,1.0,6.0

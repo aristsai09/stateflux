@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-09-07 14:00:50",
+  "python": "3.11.16 | packaged by conda-forge | (main, Sep  2 2026, 23:31:17) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "machine": "AMD64",
+  "processor": "Intel64 Family 6 Model 165 Stepping 2, GenuineIntel",
+  "cpu_count": 12,
+  "rdkit": "2025.09.6",
+  "pandas": "3.0.5",
+  "numpy": "2.4.6",
+  "sklearn": "1.9.0",
+  "xgboost": "3.2.0",
+  "lightgbm": "4.7.0"
+}

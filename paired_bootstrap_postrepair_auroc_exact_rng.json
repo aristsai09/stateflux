@@ -1,0 +1,29 @@
+{
+  "method": "10000 stratified bootstrap; resample RNG sequence matches archived p05_round03b_rescue.py; seed 20260911",
+  "results": {
+    "p_ECFP_StateCore": {
+      "delta_point": -0.007983682983683016,
+      "median": -0.007838010787963867,
+      "mean": -0.007972249761223793,
+      "ci_low": -0.02400928921997547,
+      "ci_high": 0.00725519796833396,
+      "p_positive": 0.1538
+    },
+    "p_ECFP_FluxCore": {
+      "delta_point": -0.01995920745920743,
+      "median": -0.01993006467819214,
+      "mean": -0.02007746510207653,
+      "ci_low": -0.034149169921875,
+      "ci_high": -0.0071095810271799564,
+      "p_positive": 0.0005
+    },
+    "p_ECFP_StateFluxCore": {
+      "delta_point": -0.023921911421911468,
+      "median": -0.023863673210144043,
+      "mean": -0.02398841828107834,
+      "ci_low": -0.04312427341938019,
+      "ci_high": -0.006059120409190655,
+      "p_positive": 0.0038
+    }
+  }
+}

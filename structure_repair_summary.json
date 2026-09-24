@@ -1,0 +1,9 @@
+{
+  "master_n": 1336,
+  "eligible_n": 1154,
+  "missing_structure_before": 436,
+  "missing_structure_after": 101,
+  "structures_recovered": 335,
+  "extreme_eligible_n": 519,
+  "new_extreme_eligible_n": 114
+}

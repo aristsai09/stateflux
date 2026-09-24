@@ -1,0 +1,23 @@
+name: stateflux-reproducibility
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.16
+  - rdkit=2025.09.6
+  - pandas=3.0.5
+  - numpy=2.4.6
+  - scikit-learn=1.9.0
+  - xgboost=3.2.0
+  - lightgbm=4.7.0
+  - matplotlib
+  - pillow
+  - requests
+  - tqdm
+  - xtb=6.7.1
+# Additional software used outside this environment:
+# BioTransformer 3.0.0
+# Q-Chem 6.2.0
+# WebMO (interface; exact server build not retained in the archive)
+# Original StateFlux xTB production environment:
+# xTB 6.7.1, conda-forge win-64 build gfortran_hca11032_5, commit edcfbbe.
+# See StateFlux_xtb_provenance.txt and StateFlux_xtb-6.7.1_conda_metadata.json.

@@ -1,0 +1,160 @@
+{
+  "name": "xtb",
+  "version": "6.7.1",
+  "build": "gfortran_hca11032_5",
+  "build_number": 5,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "win-64",
+  "fn": "xtb-6.7.1-gfortran_hca11032_5.conda",
+  "md5": "dead09732c72979463f2aa73ebab0372",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/xtb-6.7.1-gfortran_hca11032_5.conda",
+  "sha256": "a00b7ab9b5eea26780ba16a2fe54c525b23ef118ccd331ab4ed772f22fa4ffec",
+  "depends": [
+    "cpcm-x >=1.1.0,<1.2.0a0 gfortran_*",
+    "dftd4 >=4.2.0,<4.3.0a0 gfortran_*",
+    "libblas >=3.9.0,<4.0a0",
+    "libgcc >=14",
+    "libgfortran",
+    "libgfortran5 >=14.3.0",
+    "liblapack >=3.9.0,<4.0a0",
+    "libwinpthread >=12.0.0.r4.gg4f2fc60ca",
+    "mctc-lib >=0.5.1,<0.6.0a0 gfortran_*",
+    "multicharge >=0.5.0,<0.6.0a0 gfortran_*",
+    "tblite >=0.6.0,<0.7.0a0 gfortran_*",
+    "ucrt >=10.0.20348.0"
+  ],
+  "constrains": [],
+  "license": "LGPL-3.0-or-later",
+  "timestamp": 1781082660000,
+  "size": 2354317,
+  "requested_spec": "xtb",
+  "package_tarball_full_path": "C:\\Users\\tonym\\miniforge3\\pkgs\\xtb-6.7.1-gfortran_hca11032_5.conda",
+  "extracted_package_dir": "C:\\Users\\tonym\\miniforge3\\pkgs\\xtb-6.7.1-gfortran_hca11032_5",
+  "files": [
+    "Library/bin/libxtb-6.dll",
+    "Library/bin/xtb.exe",
+    "Library/include/xtb.h",
+    "Library/lib/libxtb.dll.a",
+    "Library/lib/pkgconfig/xtb.pc",
+    "Library/share/modules/modulefiles/xtb/6.7.1",
+    "Library/share/xtb/.param_gfnff.xtb",
+    "Library/share/xtb/config_env.bash",
+    "Library/share/xtb/config_env.csh",
+    "Library/share/xtb/param_gfn0-xtb.txt",
+    "Library/share/xtb/param_gfn1-si-xtb.txt",
+    "Library/share/xtb/param_gfn1-xtb.txt",
+    "Library/share/xtb/param_gfn2-xtb.txt",
+    "Library/share/xtb/param_ipea-xtb.txt"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "Library/bin/libxtb-6.dll",
+        "path_type": "hardlink",
+        "sha256": "b62ee0318dee9473fb05e701a3962ad9bc377d61e25229b7543e668f535053bc",
+        "size_in_bytes": 7160539,
+        "sha256_in_prefix": "b62ee0318dee9473fb05e701a3962ad9bc377d61e25229b7543e668f535053bc"
+      },
+      {
+        "_path": "Library/bin/xtb.exe",
+        "path_type": "hardlink",
+        "sha256": "e11f074b519c3b226f3fab4902f36555c4bfb204cc0365bdb196313124e3dc1b",
+        "size_in_bytes": 404376,
+        "sha256_in_prefix": "e11f074b519c3b226f3fab4902f36555c4bfb204cc0365bdb196313124e3dc1b"
+      },
+      {
+        "_path": "Library/include/xtb.h",
+        "path_type": "hardlink",
+        "sha256": "f6faa3cf2f447a3b1021e271afd964fa7c5dac8475c66f00f09d28c65096ba11",
+        "size_in_bytes": 11940,
+        "sha256_in_prefix": "f6faa3cf2f447a3b1021e271afd964fa7c5dac8475c66f00f09d28c65096ba11"
+      },
+      {
+        "_path": "Library/lib/libxtb.dll.a",
+        "path_type": "hardlink",
+        "sha256": "3b543d22d6497db605d88ba3875aad1756c66bd3305397bcd58c10cc73408ecb",
+        "size_in_bytes": 2152430,
+        "sha256_in_prefix": "3b543d22d6497db605d88ba3875aad1756c66bd3305397bcd58c10cc73408ecb"
+      },
+      {
+        "_path": "Library/lib/pkgconfig/xtb.pc",
+        "prefix_placeholder": "D:\\bld\\xtb-pkg_1781082066918\\_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "a7ac36d46f6809675c5d60aa936ab2a1fb6024af920a5f1528f321b4fc2bf180",
+        "size_in_bytes": 241,
+        "sha256_in_prefix": "770e9aa83da675e4fb54f8c01edb5f37d23b7426d66be497668750380b7ec6fd"
+      },
+      {
+        "_path": "Library/share/modules/modulefiles/xtb/6.7.1",
+        "prefix_placeholder": "D:\\bld\\xtb-pkg_1781082066918\\_h_env",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "306ae7db679de19e23bafb754f50b8376209c3f7f6e66177bcdb737e219d402e",
+        "size_in_bytes": 349,
+        "sha256_in_prefix": "1a4b3b5944784a9278500bff66b78f4bae9f2b5da493c962a333f9e4c58b3fb1"
+      },
+      {
+        "_path": "Library/share/xtb/.param_gfnff.xtb",
+        "path_type": "hardlink",
+        "sha256": "5cf2d1259dd3c65aa9594ea32a0c9a21bb819b6e16b81521888c5a3a1ec513e8",
+        "size_in_bytes": 10664,
+        "sha256_in_prefix": "5cf2d1259dd3c65aa9594ea32a0c9a21bb819b6e16b81521888c5a3a1ec513e8"
+      },
+      {
+        "_path": "Library/share/xtb/config_env.bash",
+        "path_type": "hardlink",
+        "sha256": "da377f5a22c434e79d7afcb4c2dce99fbe1164214125f15b029ba54ef5c07745",
+        "size_in_bytes": 638,
+        "sha256_in_prefix": "da377f5a22c434e79d7afcb4c2dce99fbe1164214125f15b029ba54ef5c07745"
+      },
+      {
+        "_path": "Library/share/xtb/config_env.csh",
+        "path_type": "hardlink",
+        "sha256": "201a23ba62a9f2618d4f9e0ed08cf9c9ee49aa356577ca445364d53cedaf921a",
+        "size_in_bytes": 614,
+        "sha256_in_prefix": "201a23ba62a9f2618d4f9e0ed08cf9c9ee49aa356577ca445364d53cedaf921a"
+      },
+      {
+        "_path": "Library/share/xtb/param_gfn0-xtb.txt",
+        "path_type": "hardlink",
+        "sha256": "278461cabbf89b14379aedc78ef3e141c8cef1f911f3a3c72530aec7a52b6d34",
+        "size_in_bytes": 39220,
+        "sha256_in_prefix": "278461cabbf89b14379aedc78ef3e141c8cef1f911f3a3c72530aec7a52b6d34"
+      },
+      {
+        "_path": "Library/share/xtb/param_gfn1-si-xtb.txt",
+        "path_type": "hardlink",
+        "sha256": "f878fd7f8eea16f326aff283fbc7ca23800045992c0f86536e18ad91816cf7ca",
+        "size_in_bytes": 28007,
+        "sha256_in_prefix": "f878fd7f8eea16f326aff283fbc7ca23800045992c0f86536e18ad91816cf7ca"
+      },
+      {
+        "_path": "Library/share/xtb/param_gfn1-xtb.txt",
+        "path_type": "hardlink",
+        "sha256": "81a9d7afdee31f5d8fd67a4d8ec966179317c7b100261c9c82d724bafb460399",
+        "size_in_bytes": 27800,
+        "sha256_in_prefix": "81a9d7afdee31f5d8fd67a4d8ec966179317c7b100261c9c82d724bafb460399"
+      },
+      {
+        "_path": "Library/share/xtb/param_gfn2-xtb.txt",
+        "path_type": "hardlink",
+        "sha256": "f6f05c6c5264cb2f75c54f8ac6838044541c1e493b16f1a4d4ee4fa64de5f545",
+        "size_in_bytes": 35849,
+        "sha256_in_prefix": "f6f05c6c5264cb2f75c54f8ac6838044541c1e493b16f1a4d4ee4fa64de5f545"
+      },
+      {
+        "_path": "Library/share/xtb/param_ipea-xtb.txt",
+        "path_type": "hardlink",
+        "sha256": "08a39b7854b915501d8ba87b7d3330f28932f293479a0dc52b502f039c19f122",
+        "size_in_bytes": 27805,
+        "sha256_in_prefix": "08a39b7854b915501d8ba87b7d3330f28932f293479a0dc52b502f039c19f122"
+      }
+    ]
+  },
+  "link": {
+    "source": "C:\\Users\\tonym\\miniforge3\\pkgs\\xtb-6.7.1-gfortran_hca11032_5",
+    "type": 1
+  }
+}

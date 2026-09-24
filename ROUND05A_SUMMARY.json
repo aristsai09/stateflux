@@ -1,0 +1,14 @@
+{
+  "status": "COMPLETE",
+  "selected_metabolite_nodes": 2711,
+  "flagged_coproduct_nodes": 113,
+  "replacement_nodes": 101,
+  "clean_quantum_edges": 2699,
+  "clean_selected_nodes": 4600,
+  "xtb_todo": 105,
+  "xtb_ok_or_partial": 4596,
+  "xtb_failures": 4,
+  "retention_ratio_min": 0.45,
+  "min_product_heavy_atoms": 8,
+  "note": "No predictive model is fit in Round05A. Cleaned features are returned for offline validation before any Q-Chem submission."
+}

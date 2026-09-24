@@ -1,0 +1,27 @@
+StateFlux xTB provenance
+
+Executable:
+C:\Users\tonym\miniforge3\envs\p05_stateflux\Library\bin\xtb.exe
+
+Version output:
+      -----------------------------------------------------------      
+     |                   =====================                   |     
+     |                           x T B                           |     
+     |                   =====================                   |     
+     |                         S. Grimme                         |     
+     |          Mulliken Center for Theoretical Chemistry        |     
+     |                    University of Bonn                     |     
+      -----------------------------------------------------------      
+
+   * xtb version 6.7.1 (edcfbbe) compiled by 'VssAdministrator@runnervm171ch' on 2026-06-10
+
+
+SHA256:
+e11f074b519c3b226f3fab4902f36555c4bfb204cc0365bdb196313124e3dc1b  /mnt/c/Users/tonym/miniforge3/envs/p05_stateflux/Library/bin/xtb.exe
+
+Conda package:
+  "version": "6.7.1",
+  "build": "gfortran_hca11032_5",
+  "build_number": 5,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/xtb-6.7.1-gfortran_hca11032_5.conda",
