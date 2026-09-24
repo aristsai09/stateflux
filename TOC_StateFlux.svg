@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="234pt" height="126pt" viewBox="0 0 234 126" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-23T22:38:56.095073</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 126 
+L 234 126 
+L 234 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 47.628369 51.66 
+Q 52.648165 51.66 56.773534 51.66 
+" clip-path="url(#pc8b1a34976)" style="fill: none; stroke: #222222; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 53.573534 50.06 
+L 56.773534 51.66 
+L 53.573534 53.26 
+z
+" clip-path="url(#pc8b1a34976)" style="fill: #222222; stroke: #222222; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 159.12 65.52 
+L 170.82 65.52 
+L 170.82 40.32 
+L 159.12 40.32 
+z
+" clip-path="url(#pc8b1a34976)" style="fill: #222222"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 191.88 65.52 
+L 203.58 65.52 
+L 203.58 42.84 
+L 191.88 42.84 
+z
+" clip-path="url(#pc8b1a34976)" style="fill: #6a4c93"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 5.2px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #777777" x="52.65" y="30.24" transform="rotate(-0 52.65 30.24)">metabolism</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #8c1d40" x="114.66" y="42.84" transform="rotate(-0 114.66 42.84)">Δω</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 6.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="114.66" y="64.26" transform="rotate(-0 114.66 64.26)">xTB ≈ DFT</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #777777" x="114.66" y="84.42" transform="rotate(-0 114.66 84.42)">quantum-chemical fidelity</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #777777" x="182.52" y="25.2" transform="rotate(-0 182.52 25.2)">toxicity prediction</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 5.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="164.97" y="74.34" transform="rotate(-0 164.97 74.34)">ECFP</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 5.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="197.73" y="74.34" transform="rotate(-0 197.73 74.34)">StateFlux</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #6a4c93" x="182.52" y="93.24" transform="rotate(-0 182.52 93.24)">limited incremental value</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 5.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="117" y="115.92" transform="rotate(-0 117 115.92)">Quantum-chemical fidelity ≠ incremental predictive value</text>
+   </g>
+   <g id="axes_2">
+    <g clip-path="url(#p921001bd3c)">
+     <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAADgAAAAlCAYAAAAXzipbAAADcElEQVR4nO3XT2xUVRTH8U+nLbUtHQoltqQCDUTjphqIf8EEoqICkYW6VeLGnQuXLowrV+51Z4iJiYnBRFf+hagkJC2i0WDBKKWF8rcMbSnWQmfGxZnC2MDQNw8TF++7m8w795zfveecey4ZGRkZGRkZKWhIY7jkDgZySycpuAtvbGLfaSaKHDu5SMMctqEXF3EaIyhgLl1M/6YpnXkOT/bTey8fDiYxwiUMowfN2IAOzOAURjGJUpoIUwos4c8h9p/D7CIM5sVNYUCkAPQhL8RNCKHbxOl+mybCXBpj/sbYMl5+hrY2GmulfA5PiVMZqFrgd3yFvTiAy0LgPnRJWUYpa7ClkQ9epzBKaxOXi4yMc3CYgXOU5081h6dFjR1K4GAX9gvRdZFCYPsS3nqOI0PsG2O2yLUS67vpW81nqyiWcA4rRSP5MaGTDSL1f6s/zrpY2sK7L/DSutvsUSvuw6u4Hy0JHS3HjvpiDBbWYD8exIqb/DdPC+t38v1P7D1Oudb6M6LGptCN1QnjmxT12JjQ7joLt78da7C2svCUaNenMC1OYKdItRMJ/GwSLbcDXyeM8dmKv/GEdqidXzl0iha+RtxXXaK7HUzop0dkxjJ84jbHXkWr2Oy8G503EbXuwZLoegUcxmZxb+Xr8DMuxM1U7CcXYdONJ3ASj1d+jzVzIsfEbGUAyIWIhiLlksjl6lEoyUX/h+hqyyrrJpkw5sSdVxAn8sttvu/BVjG+3Y33RHnc089Du8kXuPIrw310raXzLFMfc3Qra/dwaD5Fkgi82EZHF9NT5Cdj4kjCiKjxHrUFzosbFc3uC7FB13D0MEePkOulcws9m1n9Dt+9ze4OVi2lfU/VXZtE4Nxr/FXm0jh9H/FzInkR8HYxtdyKVdhS+XZ5RVxx4UezlI5TGKbQQP4VNn7DgU85tjEy5DqJLvoX6V9DvpuuN/l8sZ2iytdjopZyOC868XlcFSm4HRdEGXx5M3E3W3Rh3VWTaNgeZPQRtrTS1E7j9CICqKLsRvdtEULXCdFFnBHNJ2+R4uYXrfW+SiTwLFOtFJbS+TDd+2P8qodZkYaj4hDaxFXULFI4ycbVJNFr4irli6x4n8HnefQOxVDGFQzhB3dQHHU8l85yYQcPnKlzsvjf00TDStqbU78lMzIyMjIyMv5r/gHXP9/q7mP1JQAAAABJRU5ErkJggg==" id="imageeb7151fec7" transform="scale(1 -1) translate(0 -26.64)" x="5.85" y="-38.28" width="40.32" height="26.64"/>
+    </g>
+   </g>
+   <g id="axes_3">
+    <g clip-path="url(#pd45a72f132)">
+     <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAADgAAAAlCAYAAAAXzipbAAADaklEQVR4nO3YzW9UZRTH8c9MmWmpfZk2VKm0UkVtpAkQqCBBIqAxNKKJCSYmGl0Z/wjDn2Bcmbhw4cKVIe6MMYqKCQRIGk0NaBGjWEsLYwtU7cu0M+PiuZWpEKZ3WoKL+01ucnPnPuc55z7nd87zDAkJCQkJCQl3iyx2ozu6X3VSd8LoMsngOUwijXaUMIZfMYGFlU5ytwLM4BDO4QqewQz+wLwQbCvmMIohNQa7CgE+3EJ/K60b+eAUc9UcyQordxbnK/xowQNCut6DKYxjU/Tu8Mp9rYldGzj+GieOsLubtvrbfLcsXsSjVYzWoQMP4V48W6t3a2odeMOPrS0UmvhmkP2PcHgXcyW+GuGLi5QnUBSCO4Tv8VMVw0Xko6sOOUGnpbgeriDAOrzRT0cLr7xPTzuv7mF8lrE8YyXK2wQtzQi6OokLMScq4q/IztW4XtaowTTefJxcjrePUYi+bCbFfS30dnGyh5lG/CkUk6fwIco1TNgnFKbvavP3Bv3Yq2pfyuzk4AGy6Sr2FrXUgBfQXKNfzdH42Px3BbOCqB+MHCvhEi4KfamIndGEX4qniW1CCzhbo58v4WMx20W1FG1EpxDw/WgTdPuO+ILPYQ8+iTlukQHUC2k6jtnlDKpWZKbxc3TlcFAILCM04ThMCf2tTsiEOKSwDgVBPjueZOExLg/y24/kp0N23EScKnpdCO4y1gtpG4cSrgnVNB9jXAr7ojEFrE8z206+SGEfm1+nbYorBZpPMfx5RRuqViQqKaeZbOB6Jz0xxlXyi5DuGcv7uGnsF9LxM0H3R1N8/TdTnXR00D5KvpcNH3H8MFsqdRerTexg02Y6++g8wtH5+CW/Ec/jNLYLBWNU2FxftVTXaWHlpqP3bzlXlnQXjS+zfS3No+Tf48zi77ECbGftWwzMU3yXYyOhAcdlQKjCU8JJYlFfTdGzIeFEcUDooaeXY3QNqXoysxSKS58vn2vMpEmPMLaF7hF+iDM+4lNhdXLYiC6hOk4IOs/i6ej+zK1N3MwC5YWg0SXECrCEIS5sJFOioZZyWGFqMrq+jfxYJ5wc9gqnjGUHdzti70UHGdvKE02Uexk9F85zK2VB6G3jOLEK9v4ldoAlMr8H4au7Q38zrCaxAzzPpb6ws08Nh21cQkJCQkJCwv+UfwCSCdl6qy+NSwAAAABJRU5ErkJggg==" id="image9ffca6c846" transform="scale(1 -1) translate(0 -26.64)" x="59.67" y="-38.28" width="40.32" height="26.64"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc8b1a34976">
+   <rect x="0" y="0" width="234" height="126"/>
+  </clipPath>
+  <clipPath id="p921001bd3c">
+   <rect x="5.85" y="38.4" width="39.78" height="26.52"/>
+  </clipPath>
+  <clipPath id="pd45a72f132">
+   <rect x="59.67" y="38.4" width="39.78" height="26.52"/>
+  </clipPath>
+ </defs>
+</svg>
